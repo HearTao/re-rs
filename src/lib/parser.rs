@@ -1,5 +1,5 @@
-use libs::ast::Token;
-use libs::ast::AST;
+use lib::ast::Token;
+use lib::ast::AST;
 
 pub struct Parser {
   tokens: Vec<Token>,

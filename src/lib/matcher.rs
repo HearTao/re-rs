@@ -1,8 +1,7 @@
-use libs::ast::AST;
+use lib::ast::AST;
 
 pub struct Matcher {
-  ast: AST,
-
+  ast: AST
 }
 
 impl Matcher {

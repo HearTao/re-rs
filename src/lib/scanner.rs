@@ -1,4 +1,4 @@
-use libs::ast::Token;
+use lib::ast::Token;
 
 pub struct Scanner {
   chars: Vec<char>,
